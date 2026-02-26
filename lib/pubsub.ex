@@ -1,3 +1,5 @@
+# Copyright (c) 2026 garte. All rights reserved.
+
 defmodule Carell.PubSub do
   alias Phoenix.PubSub
 

@@ -1,3 +1,5 @@
+# Copyright (c) 2026 garte. All rights reserved.
+
 defmodule Carell.Feed.TriggerEvent do
   defstruct [:id, :address, :from, :feed, :event, :params, :reply]
 end

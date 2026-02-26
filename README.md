@@ -6,9 +6,6 @@ How and what your feeds actually represent is up to you. It could be a single re
 
 In essence it's about scaling up your LiveView code by separating concerns into these feeds. The feeds themselves can talk to each other, cascade events and watch properties for further updates.
 
-## Feed watcher
-Feeds are not nested, but
-
 ## --- AI below, I'll refine this when I get around to it ---
 
 ## Initialising a feed
